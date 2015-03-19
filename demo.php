@@ -4,5 +4,5 @@
 	echo 'demit';
 	echo '<br>';
 	echo 'denmit';
-	echo '&nbsp;&nbsp;I will be leave hear! ok?';
+	echo '&nbsp;&nbsp;I will be leave hear!';
 ?>
